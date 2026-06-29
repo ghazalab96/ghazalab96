@@ -1,42 +1,65 @@
-<h1 align="left">Hey 👋 I'm Ghazal;</h1>
+<div align="center">
 
-###
+# Hi, I'm Ghazal 👋
 
-<p align="left">I'm a SC student (former dentist btw, but it's a long story)</p>
+**CS student · Former dentist · Vienna, AT**
 
-###
+*Studying Computer Science at Hochschule Campus Wien (FH)*
 
+</div>
 
-###
+---
 
-<h2 align="left">You can find me here</h2>
+### About me
 
-###
+I'm a computer science student with an unusual backstory — I used to fix teeth, now I fix bugs. 🦷 → 💻
+
+Interested in **web development**, **software engineering**, and **cybersecurity**. I learn by building things and breaking them apart to understand how they work.
+
+---
+
+### What I work with
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+### Focus areas
+
+```
+Web Development      →  building things people use
+Software Engineering →  writing clean, working code  
+Cybersecurity        →  understanding how systems break
+```
+
+---
+
+### Find me
 
 <div align="left">
+  <a href="https://ghazalab96.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white" height="28" />
+  </a>
   <a href="https://www.linkedin.com/in/ghazal-arbabzadeh-bb7857161/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="http://discord.com/users/1418572398596456530" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="t.me/ghazalab99" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="https://www.youtube.com/@Talesofnewbeginnings" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="28" />
   </a>
   <a href="https://x.com/wecantalk96" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="28" />
+  </a>
+  <a href="https://t.me/ghazalab99" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="28" />
+  </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ghazalab96.ghazalab96&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ghazalab96.ghazalab96" />
 </div>
-
-</div>
-  https://ghazalab96.github.io/
-</div>
-###
