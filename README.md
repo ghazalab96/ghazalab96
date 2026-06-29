@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi, I'm Ghazal 👋
 
@@ -8,15 +8,14 @@
 
 </div>
 
----
 
 ### About me
 
 I'm a computer science student with an unusual backstory — I used to fix teeth, now I fix bugs. 🦷 → 💻
 
-Interested in **web development**, **software engineering**, and **cybersecurity**. I learn by building things and breaking them apart to understand how they work.
+Interested in **web development**, **software engineering**, and **cybersecurity**. 
+I learn by building things and breaking them apart to understand how they work.
 
----
 
 ### What I work with
 
@@ -26,14 +25,13 @@ Interested in **web development**, **software engineering**, and **cybersecurity
 ![HTML](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
 
 ### Focus areas
 
 ```
-Web Development      →  building things people use
-Software Engineering →  writing clean, working code  
-Cybersecurity        →  understanding how systems break
+Web Development      
+Software Engineering  
+Cybersecurity
 ```
 
 ---
