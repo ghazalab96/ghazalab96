@@ -42,7 +42,6 @@ Cybersecurity
   <tr>
     <td align="center" width="110"><strong>14</strong><br/><sub>Public repos</sub></td>
     <td align="center" width="120"><strong>3</strong><br/><sub>Active projects</sub></td>
-    <td align="center" width="110"><strong>Vienna 🇦🇹</strong><br/><sub>Based in</sub></td>
   </tr>
 </table>
 
