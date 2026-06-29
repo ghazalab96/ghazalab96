@@ -36,6 +36,19 @@ Cybersecurity
 
 ---
 
+### At a glance
+
+<table>
+  <tr>
+    <td align="center" width="160"><strong>14</strong><br/><sub>Public repos</sub></td>
+    <td align="center" width="160"><strong>3</strong><br/><sub>Active projects</sub></td>
+    <td align="center" width="160"><strong>Web · Software · Security</strong><br/><sub>Focus areas</sub></td>
+    <td align="center" width="160"><strong>Vienna 🇦🇹</strong><br/><sub>Based in</sub></td>
+  </tr>
+</table>
+
+---
+
 ### Find me
 
 <div align="left">
